@@ -1,0 +1,8 @@
+# robots.txt – Lộc Mobile Tây Ninh
+# https://locmobile.vn/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://locmobile.vn/sitemap.xml
